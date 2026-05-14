@@ -21,11 +21,11 @@ _(a customer walks in the door.)_
 
 **Owner**: What can I do for you, Sir?
 
-**C**: Well, I was, uh, sitting in the public library on Thurmon Street just now, skimming through "Rogue Herrys" by Hugh Walpole, and I suddenly came over all peckish.
+**C**: Well, I was, uh, sitting in the public library on Thurmon Street just now, skimming through "Rogue Herries" by Hugh Walpole, and I suddenly came over all peckish.
 
 **O**: Peckish, sir?
 
-**C**: Esuriant.
+**C**: Esurient.
 
 **O**: Eh?
 
